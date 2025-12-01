@@ -1,4 +1,4 @@
-# allegro-tak-jakby
+# allegro
 
 Web app like Allegro, consisting of:
 
